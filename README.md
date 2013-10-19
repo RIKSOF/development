@@ -1,4 +1,4 @@
-development
+Development
 ===========
 
-Development standards wiki
+[Development wiki](https://github.com/RIKSOF/development/wiki)
